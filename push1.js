@@ -1,3 +1,3 @@
 //variable
-var name = ("shantal hildah");
-console.log(name);
+var Name = ("shantal hildah");
+console.log(Name);
